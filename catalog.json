@@ -2,7 +2,7 @@
  "catalog_version": 1,
  "mods": [
   {
-   "category": "迷你换皮包（0.41）",
+   "category": "未来联邦（0.41）",
    "description": "0.41 迷你换皮包「未来联邦」：19 个单位槽 + 5 型弹体 + 海军 3 档。纯换贴图，不动数值与玩法（中文版）。",
    "download_url": "https://github.com/xyu3032-commits/Mini041Mods/releases/download/v1.0.0/mini41_fed_v1.0.0.dfmod",
    "game_version": "0.41",
@@ -16,7 +16,7 @@
    "version": "1.0.0"
   },
   {
-   "category": "迷你换皮包（0.41）",
+   "category": "未来联邦（0.41）",
    "description": "0.41 mini reskin pack \"Future Federation\": 19 unit slots + 5 missile bodies + 3 navy tiers. Pure sprite swap, no stat or gameplay changes (English edition).",
    "download_url": "https://github.com/xyu3032-commits/Mini041Mods/releases/download/v1.0.0/mini41_fed_en_v1.0.0.dfmod",
    "game_version": "0.41",
@@ -30,7 +30,7 @@
    "version": "1.0.0"
   },
   {
-   "category": "迷你换皮包（0.41）",
+   "category": "未来机械（0.41）",
    "description": "0.41 迷你换皮包「未来机械」：21 个单位槽 + 5 型弹体 + 海军 3 档。纯换贴图，不动数值与玩法（中文版）。",
    "download_url": "https://github.com/xyu3032-commits/Mini041Mods/releases/download/v1.0.0/mini41_machine_v1.0.0.dfmod",
    "game_version": "0.41",
@@ -44,7 +44,7 @@
    "version": "1.0.0"
   },
   {
-   "category": "迷你换皮包（0.41）",
+   "category": "未来机械（0.41）",
    "description": "0.41 mini reskin pack \"Future Machines\": 21 unit slots + 5 missile bodies + 3 navy tiers. Pure sprite swap, no stat or gameplay changes (English edition).",
    "download_url": "https://github.com/xyu3032-commits/Mini041Mods/releases/download/v1.0.0/mini41_machine_en_v1.0.0.dfmod",
    "game_version": "0.41",
@@ -58,7 +58,7 @@
    "version": "1.0.0"
   },
   {
-   "category": "迷你换皮包（0.41）",
+   "category": "末世幸存者（0.41）",
    "description": "0.41 迷你换皮包「末世幸存者」：10 个单位槽。纯换贴图，不动数值与玩法（中文版）。",
    "download_url": "https://github.com/xyu3032-commits/Mini041Mods/releases/download/v1.0.0/mini41_survivor_v1.0.0.dfmod",
    "game_version": "0.41",
@@ -72,7 +72,7 @@
    "version": "1.0.0"
   },
   {
-   "category": "迷你换皮包（0.41）",
+   "category": "末世幸存者（0.41）",
    "description": "0.41 mini reskin pack \"Apocalypse Survivors\": 10 unit slots. Pure sprite swap, no stat or gameplay changes (English edition).",
    "download_url": "https://github.com/xyu3032-commits/Mini041Mods/releases/download/v1.0.0/mini41_survivor_en_v1.0.0.dfmod",
    "game_version": "0.41",
@@ -86,7 +86,7 @@
    "version": "1.0.0"
   },
   {
-   "category": "迷你换皮包（0.41）",
+   "category": "末世丧尸（0.41）",
    "description": "0.41 迷你换皮包「末世丧尸」：13 个单位槽。纯换贴图，不动数值与玩法（中文版）。",
    "download_url": "https://github.com/xyu3032-commits/Mini041Mods/releases/download/v1.0.0/mini41_zombie_v1.0.0.dfmod",
    "game_version": "0.41",
@@ -100,7 +100,7 @@
    "version": "1.0.0"
   },
   {
-   "category": "迷你换皮包（0.41）",
+   "category": "末世丧尸（0.41）",
    "description": "0.41 mini reskin pack \"Apocalypse Zombies\": 13 unit slots. Pure sprite swap, no stat or gameplay changes (English edition).",
    "download_url": "https://github.com/xyu3032-commits/Mini041Mods/releases/download/v1.0.0/mini41_zombie_en_v1.0.0.dfmod",
    "game_version": "0.41",
@@ -114,7 +114,7 @@
    "version": "1.0.0"
   },
   {
-   "category": "迷你换皮包（0.41）",
+   "category": "修仙（0.41）",
    "description": "0.41 迷你换皮包「修仙」：15 个单位槽。纯换贴图，不动数值与玩法（中文版）。",
    "download_url": "https://github.com/xyu3032-commits/Mini041Mods/releases/download/v1.0.0/mini41_xiuxian_v1.0.0.dfmod",
    "game_version": "0.41",
@@ -128,7 +128,7 @@
    "version": "1.0.0"
   },
   {
-   "category": "迷你换皮包（0.41）",
+   "category": "修仙（0.41）",
    "description": "0.41 mini reskin pack \"Cultivation\": 15 unit slots. Pure sprite swap, no stat or gameplay changes (English edition).",
    "download_url": "https://github.com/xyu3032-commits/Mini041Mods/releases/download/v1.0.0/mini41_xiuxian_en_v1.0.0.dfmod",
    "game_version": "0.41",
@@ -142,7 +142,7 @@
    "version": "1.0.0"
   },
   {
-   "category": "迷你换皮包（0.41）",
+   "category": "魔法王国（0.41）",
    "description": "0.41 迷你换皮包「魔法王国」：16 个单位槽 + 海军 3 档。纯换贴图，不动数值与玩法（中文版）。",
    "download_url": "https://github.com/xyu3032-commits/Mini041Mods/releases/download/v1.0.0/mini41_magic_v1.0.0.dfmod",
    "game_version": "0.41",
@@ -156,7 +156,7 @@
    "version": "1.0.0"
   },
   {
-   "category": "迷你换皮包（0.41）",
+   "category": "魔法王国（0.41）",
    "description": "0.41 mini reskin pack \"Magic Kingdom\": 16 unit slots + 3 navy tiers. Pure sprite swap, no stat or gameplay changes (English edition).",
    "download_url": "https://github.com/xyu3032-commits/Mini041Mods/releases/download/v1.0.0/mini41_magic_en_v1.0.0.dfmod",
    "game_version": "0.41",
@@ -170,7 +170,7 @@
    "version": "1.0.0"
   },
   {
-   "category": "迷你换皮包（0.41）",
+   "category": "蒸汽朋克（0.41）",
    "description": "0.41 迷你换皮包「蒸汽朋克」：19 个单位槽（含弹体 3）+ 海军 3 档。纯换贴图，不动数值与玩法（中文版）。",
    "download_url": "https://github.com/xyu3032-commits/Mini041Mods/releases/download/v1.0.0/mini41_steam_v1.0.0.dfmod",
    "game_version": "0.41",
@@ -184,7 +184,7 @@
    "version": "1.0.0"
   },
   {
-   "category": "迷你换皮包（0.41）",
+   "category": "蒸汽朋克（0.41）",
    "description": "0.41 mini reskin pack \"Steampunk\": 19 unit slots (incl. 3 missile bodies) + 3 navy tiers. Pure sprite swap, no stat or gameplay changes (English edition).",
    "download_url": "https://github.com/xyu3032-commits/Mini041Mods/releases/download/v1.0.0/mini41_steam_en_v1.0.0.dfmod",
    "game_version": "0.41",
@@ -198,7 +198,7 @@
    "version": "1.0.0"
   },
   {
-   "category": "迷你换皮包（0.41）",
+   "category": "赛博朋克（0.41）",
    "description": "0.41 迷你换皮包「赛博朋克」：21 个单位槽（含弹体 5）。纯换贴图，不动数值与玩法（中文版）。",
    "download_url": "https://github.com/xyu3032-commits/Mini041Mods/releases/download/v1.0.0/mini41_cyber_v1.0.0.dfmod",
    "game_version": "0.41",
@@ -212,7 +212,7 @@
    "version": "1.0.0"
   },
   {
-   "category": "迷你换皮包（0.41）",
+   "category": "赛博朋克（0.41）",
    "description": "0.41 mini reskin pack \"Cyberpunk\": 21 unit slots (incl. 5 missile bodies). Pure sprite swap, no stat or gameplay changes (English edition).",
    "download_url": "https://github.com/xyu3032-commits/Mini041Mods/releases/download/v1.0.0/mini41_cyber_en_v1.0.0.dfmod",
    "game_version": "0.41",
@@ -226,7 +226,7 @@
    "version": "1.0.0"
   },
   {
-   "category": "迷你换皮包（0.41）",
+   "category": "虫族（0.41）",
    "description": "0.41 迷你换皮包「虫族」：16 个单位槽。纯换贴图，不动数值与玩法（中文版）。",
    "download_url": "https://github.com/xyu3032-commits/Mini041Mods/releases/download/v1.0.0/mini41_swarm_v1.0.0.dfmod",
    "game_version": "0.41",
@@ -240,7 +240,7 @@
    "version": "1.0.0"
   },
   {
-   "category": "迷你换皮包（0.41）",
+   "category": "虫族（0.41）",
    "description": "0.41 mini reskin pack \"Insect Swarm\": 16 unit slots. Pure sprite swap, no stat or gameplay changes (English edition).",
    "download_url": "https://github.com/xyu3032-commits/Mini041Mods/releases/download/v1.0.0/mini41_swarm_en_v1.0.0.dfmod",
    "game_version": "0.41",
@@ -254,7 +254,7 @@
    "version": "1.0.0"
   },
   {
-   "category": "迷你换皮包（0.41）",
+   "category": "亡灵大军（0.41）",
    "description": "0.41 迷你换皮包「亡灵大军」：16 个单位槽 + 海军 3 档。纯换贴图，不动数值与玩法（中文版）。",
    "download_url": "https://github.com/xyu3032-commits/Mini041Mods/releases/download/v1.0.0/mini41_undead_v1.0.0.dfmod",
    "game_version": "0.41",
@@ -268,7 +268,7 @@
    "version": "1.0.0"
   },
   {
-   "category": "迷你换皮包（0.41）",
+   "category": "亡灵大军（0.41）",
    "description": "0.41 mini reskin pack \"Undead Army\": 16 unit slots + 3 navy tiers. Pure sprite swap, no stat or gameplay changes (English edition).",
    "download_url": "https://github.com/xyu3032-commits/Mini041Mods/releases/download/v1.0.0/mini41_undead_en_v1.0.0.dfmod",
    "game_version": "0.41",
@@ -282,7 +282,7 @@
    "version": "1.0.0"
   },
   {
-   "category": "迷你换皮包（0.41）",
+   "category": "精灵森林（0.41）",
    "description": "0.41 迷你换皮包「精灵森林」：16 个单位槽。纯换贴图，不动数值与玩法（中文版）。",
    "download_url": "https://github.com/xyu3032-commits/Mini041Mods/releases/download/v1.0.0/mini41_elf_v1.0.0.dfmod",
    "game_version": "0.41",
@@ -296,7 +296,7 @@
    "version": "1.0.0"
   },
   {
-   "category": "迷你换皮包（0.41）",
+   "category": "精灵森林（0.41）",
    "description": "0.41 mini reskin pack \"Elven Forest\": 16 unit slots. Pure sprite swap, no stat or gameplay changes (English edition).",
    "download_url": "https://github.com/xyu3032-commits/Mini041Mods/releases/download/v1.0.0/mini41_elf_en_v1.0.0.dfmod",
    "game_version": "0.41",
@@ -310,7 +310,7 @@
    "version": "1.0.0"
   },
   {
-   "category": "迷你换皮包（0.41）",
+   "category": "兽人部落（0.41）",
    "description": "0.41 迷你换皮包「兽人部落」：16 个单位槽。纯换贴图，不动数值与玩法（中文版）。",
    "download_url": "https://github.com/xyu3032-commits/Mini041Mods/releases/download/v1.0.0/mini41_orc_v1.0.0.dfmod",
    "game_version": "0.41",
@@ -324,7 +324,7 @@
    "version": "1.0.0"
   },
   {
-   "category": "迷你换皮包（0.41）",
+   "category": "兽人部落（0.41）",
    "description": "0.41 mini reskin pack \"Orc Tribe\": 16 unit slots. Pure sprite swap, no stat or gameplay changes (English edition).",
    "download_url": "https://github.com/xyu3032-commits/Mini041Mods/releases/download/v1.0.0/mini41_orc_en_v1.0.0.dfmod",
    "game_version": "0.41",
